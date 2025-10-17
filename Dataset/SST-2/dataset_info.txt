@@ -1,0 +1,39 @@
+======================================================================
+Standard Dataset for Prompt Optimization Experiments
+======================================================================
+
+Source Dataset: stanfordnlp/sst2
+Random Seed: 42
+
+Dataset Size:
+  Training set:    800 samples
+  Validation set:  100 samples
+  Test set:        100 samples
+  Total:          1000 samples
+
+Label Distribution:
+  Train: {1: 447, 0: 353}
+  Val  : {0: 49, 1: 51}
+  Test : {0: 49, 1: 51}
+
+Candidate Vocabulary:
+  Size: 100 words
+  Top 30: bad, dull, art, see, performance, excellent, deeply, low, fascinating, emotionally, deadly, fun, romantic, seems, worth, balance, men, minutes, back, contrived, trying, beautiful, exercise, pertinent, unfunny, written, remarkable, add, short, barely
+
+Sample Data:
+  [1] Label=1: remarkable procession of sweeping pictures ...
+  [2] Label=1: gives it that extra little something that makes it worth checking out at theater...
+  [3] Label=1: to make up for the ones that do n't come off ...
+
+======================================================================
+Generated Files:
+======================================================================
+  SST-2/
+    ├── train.csv       - Training set
+    ├── validation.csv  - Validation set
+    ├── test.csv        - Test set
+    ├── vcand.txt       - Candidate vocabulary (100 words)
+    └── dataset_info.txt - This file
+
+Usage:
+  python main.py --dataset SST-2 --vocab_path SST-2/vcand.txt

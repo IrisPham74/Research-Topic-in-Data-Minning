@@ -1,0 +1,101 @@
+sentence,label,SemEval_set
+A: The skateboarder is jumping in the air  B: A skateboarder is jumping in the air,2,TRIAL
+A: Three boys in karate costumes aren't fighting  B: Three boys in karate costumes are fighting,0,TRIAL
+A: Two dogs are playing together on the grass  B: Two dogs are resting together in the grass,1,TRIAL
+A: A woman is deboning a fish  B: A big fish is catching a man,1,TRIAL
+A: The people are not sitting on a bench in front of a restaurant  B: Three people are sitting on a bench under some palm trees,1,TRIAL
+A: Boys are not dancing in front of some people  B: Boys are dancing in front of some people,0,TRIAL
+A: A woman is playing an electric guitar  B: A man is laying down a guitar,1,TRIAL
+A: A man is slicing a bun  B: A man is slicing a tomato,1,TRIAL
+A: The person is not standing on white ice  B: A person is standing in a vast field of glacial ice,1,TRIAL
+A: There is no girl in white dancing  B: A girl in white is dancing,0,TRIAL
+A: The cat is playing passionately with a watermelon  B: A cat is playing with a watermelon,2,TRIAL
+A: The man is walking along a path through the wilderness  B: A man is lazily walking down a road,1,TRIAL
+A: A man is slicing a potato into pieces  B: A man is not cutting a potato,0,TRIAL
+A: The person is slicing onions  B: Onions are being sliced by the person,2,TRIAL
+A: A woman is tapping her fingers on a table  B: A woman is resting her fingers on a table,1,TRIAL
+A: A woman is pouring ingredients into a bowl  B: The chef is seasoning the oil,1,TRIAL
+A: A woman in blue jeans is standing in front of a group of children beside a stone built house  B: No lady is standing on the street and is surrounded by school children,1,TRIAL
+A: One man is climbing a cliff with a rope  B: A person with pink climbing gear roped the rock,1,TRIAL
+A: A man and woman are talking  B: A man and a woman are eating happily,1,TRIAL
+A: A girl in gold and purple is holding a rainbow afghan  B: A man is squatting in brush and taking a photo,1,TRIAL
+A: A dog is swimming in a body of water  B: An animal is swimming in a body of water,2,TRIAL
+A: A man is rowing a canoe  B: A man is rowing a boat,2,TRIAL
+A: A bike is being ridden over a monkey  B: A person is riding a dirt bike down a dirt hill,1,TRIAL
+A: A man is playing a guitar  B: A man is strumming a guitar,2,TRIAL
+A: A man is screaming  B: A man is scared,1,TRIAL
+A: A man is dangerously throwing knives at a tree  B: Some dangerous men with knives are throwing a bike against a tree,1,TRIAL
+A: A man and two women in a darkened room are sitting at a table with candles  B: The group of dim people is sitting in a room,1,TRIAL
+A: A boy is running through the sand  B: A boy wearing a striped shirt is running barefoot on the sandy hill,1,TRIAL
+A: A snake is being fed a mouse by a man  B: No snake is being fed a mouse by a man,0,TRIAL
+"A: Three young men are running, jumping and kicking near a vending machine  B: There is no man running, jumping and kicking near a vending machine",0,TRIAL
+A: A blond child is going down a slide and throwing up his arms  B: A child with dark hair is going down a slide and throwing up his arms,0,TRIAL
+A: A hole is being burrowed by the badger  B: A badger is shrewdly digging the earth,2,TRIAL
+A: A small guinea pig is gnawing and eating a piece of carrot on the floor  B: A guinea pig is devouring a carrot,2,TRIAL
+A: Four children are doing backbends in the gym  B: Four girls are doing backbends and playing outdoors,1,TRIAL
+A: A person is slicing some mushrooms  B: The elephant is being ridden by the woman,1,TRIAL
+A: A boat is sailing peacefully over the water  B: The guitar is being played by the man,1,TRIAL
+A: A man is recklessly climbing a rope  B: A man is climbing a rope,2,TRIAL
+A: Someone is cooking okra in a pan  B: Okra is being cooked in a pan,2,TRIAL
+A: The man dressed in leather chaps and a purple shirt is standing in front of someone lookers  B: A man is wearing a purple shirt and black leather chaps and is posing for the camera,1,TRIAL
+A: A black dog is running in the grass and its tongue is hanging out  B: A black dog is running in the grass,2,TRIAL
+A: A person is scrubbing a zucchini  B: The person is scrubbing a zucchini,2,TRIAL
+A: The dog is snapping at some droplets of water  B: A girl in a band is playing an instrument,1,TRIAL
+A: A few men in a competition are running outside  B: A few men in a competition are running indoors,0,TRIAL
+A: A girl is wearing jeans and a pink shirt and is running  B: A little boy in a pink shirt is running under a tree in the desert,1,TRIAL
+A: The young boys are playing outdoors and the man is smiling nearby  B: There is no boy playing outdoors and there is no man smiling,0,TRIAL
+A: A girl in white is dancing  B: The blond girl is dancing in front of the sound equipment,1,TRIAL
+A: A little child in a pink sweater is climbing a concrete staircase  B: A small child is outdoors climbing steps in a grassy area,1,TRIAL
+A: A panda bear is eating some bamboo  B: Some bamboo is being eaten by a panda bear,2,TRIAL
+A: The adult is playing the guitar loudly  B: A flute is being played by a man,1,TRIAL
+A: There is no dog playing with a toy  B: A dog is eating a doll,0,TRIAL
+A: A group of rollerbladers is lining up on the street  B: A group of rollerbladers is lining up on the road,2,TRIAL
+A: A young girl is standing on one leg  B: A young girl is dancing,1,TRIAL
+A: Two people are sitting on a park bench on a sunny day  B: Two people are sitting on a park bench on a hot day,1,TRIAL
+A: A few people are floating on a raft  B: People are riding and paddling a raft,1,TRIAL
+A: A brown and white dog is running through the tall grass  B: A brown and white dog is moving through the wild grass,1,TRIAL
+"A: The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back  B: A girl with red hair and red eyebrows is in midspeech",1,TRIAL
+A: A girl in blue is sliding down a green slide  B: The young girl in blue is enjoying a slide,2,TRIAL
+A: A biker is riding away from a fence  B: A man is dancing on the road,1,TRIAL
+A: A man is cooking a snake  B: There is no man cooking a snake,0,TRIAL
+A: There is no girl playing a flute  B: A girl is playing a flute,0,TRIAL
+A: A dog is playing alone on a beach covered by snow  B: A dog is walking along a snowdrift,1,TRIAL
+A: Not a lot of people are in an ice skating park  B: An ice skating rink placed outdoors is full of people,1,TRIAL
+A: A man in a jersey which is black is standing in a gym  B: A man in a black jersey is standing in a gym,2,TRIAL
+A: Two sumo ringers are fighting  B: A man is riding a water toy in the water,1,TRIAL
+A: The black and white dog is running in a green yard  B: A black and white dog is running outdoors,2,TRIAL
+A: A large green ball is hitting a potato  B: A big green ball is missing a potato,0,TRIAL
+A: The animal is grazing on the grass  B: The cop is sitting on a police bike,1,TRIAL
+A: The man is not stirring the sauce for the chicken  B: The man is stirring the sauce for the chicken,0,TRIAL
+A: A man is playing a large flute  B: There is no man playing a flute,0,TRIAL
+A: A monkey is pulling a dog's tail  B: A monkey is teasing a dog at the zoo,1,TRIAL
+A: Two people are riding a bike  B: A practicing jumper is tossing a person's snowboard into the air,1,TRIAL
+A: The man is kick boxing with a trainer  B: There is no karate practitioner kicking at another man who is wearing protective boxing gloves,1,TRIAL
+A: The food on the trays is being eaten by the kittens  B: A few kittens are eating,2,TRIAL
+"A: Three men are jumping off a wall  B: Three young men are furiously running, jumping and kicking near a vending machine",1,TRIAL
+A: A family is buying something at the vending machine  B: A man in a suit is standing at a microphone and singing,1,TRIAL
+A: There is no boy playing guitar  B: A boy is playing guitar,0,TRIAL
+A: A man is eating a banana  B: A man is eating a fruit,2,TRIAL
+A: Some ingredients are being mixed in a bowl by a person  B: Some ingredients are being separated in a bowl by a person,1,TRIAL
+A: A man is emptying a container made of plastic  B: A man is carelessly holding a frog,1,TRIAL
+A: Two men in a race are flipping the tires of a tractor  B: Two men are competing in a tire rolling race,1,TRIAL
+A: A dog is scattering a pack of white sheep on a dusty farm  B: A dog is herding a pack of white sheep on a dusty farm,1,TRIAL
+A: A little boy is sticking his tongue out for the camera and another boy is looking on  B: Two kids are looking up at the camera and one is sticking out his tongue,2,TRIAL
+A: There is no karate practitioner kicking at another man who is wearing protective boxing gloves  B: A karate practitioner is kicking at another man who is wearing protective boxing gloves,0,TRIAL
+A: Two boys are laying in the ocean close to the beach  B: Two boys are laying in the water close to the beach,2,TRIAL
+"A: A boy under an umbrella is being held by his father who is wearing a blue coat  B: A boy, who is wearing a blue coat, is being held by his father under an umbrella ",1,TRIAL
+A: The monkey is brushing a bull dog  B: A bull dog is brushing the monkey,1,TRIAL
+A: The snowboarder is doing a flip over a mound of snow  B: Somebody is jumping in the air on a board,2,TRIAL
+A: A black and orange bird is standing in the grass  B: The black bird with a yellow beak is standing in the green grass,1,TRIAL
+A: A few ferrets are climbing out of the cage  B: Ferrets are climbing down from a shelf,1,TRIAL
+A: A chef is preparing some food  B: A chef is preparing a meal,2,TRIAL
+A: There is no little boy wearing a green soccer strip and running on the grass  B: A little boy is wearing a green soccer strip and is running on the grass,0,TRIAL
+"A: The girl, who is little, is carefully combing her hair into a pony tail  B: The girl, who is little, is combing her hair into a pony tail.",2,TRIAL
+A: A woman is planting some flowers  B: A woman is cutting broccoli,1,TRIAL
+A: A small white dog is running across a lawn  B: A big white dog is running across a lawn,1,TRIAL
+A: A bald person is playing a guitar  B: A person has blonde and flyaway hair and is playing a guitar,1,TRIAL
+A: Two dogs are running through water  B: Two dogs are running through high grass,1,TRIAL
+A: There is no man spraying a super soaker into the mouth of a dog  B: A man is squirting water into the mouth of a white dog with a squirt gun,1,TRIAL
+A: A white and tan dog is running through the tall and green grass  B: A white and tan dog is running through a field,2,TRIAL
+A: A dog with a blue collar is playing with the ball outside  B: A grey dog is bouncing a soccer ball on its head in a grass field,1,TRIAL
+A: A classroom full of students is looking attentively in the same direction inside a bamboo structure  B: A group of students in uniforms is listening attentively at the front of the class,1,TRIAL

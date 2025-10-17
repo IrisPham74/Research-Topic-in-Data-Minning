@@ -1,0 +1,39 @@
+======================================================================
+Standard Dataset for Prompt Optimization Experiments
+======================================================================
+
+Source Dataset: raquiba/Sarcasm_News_Headline
+Random Seed: 42
+
+Dataset Size:
+  Training set:    800 samples
+  Validation set:  100 samples
+  Test set:        100 samples
+  Total:          1000 samples
+
+Label Distribution:
+  Train: {1: 382, 0: 418}
+  Val  : {1: 48, 0: 52}
+  Test : {0: 56, 1: 44}
+
+Candidate Vocabulary:
+  Size: 100 words
+  Top 30: report, donald, calls, home, photos, running, college, reveals, court, watch, shit, teacher, queer, wife, minute, fucking, child, shows, fight, assault, crash, york, high, states, teen, victim, trailer, fashion, rise, forced
+
+Sample Data:
+  [1] Label=1: civil unrest in sierra leone concerns npr listener...
+  [2] Label=0: union plows ahead after major scotus setback...
+  [3] Label=0: how to botch a wedding toast in 5 words...
+
+======================================================================
+Generated Files:
+======================================================================
+  Sarcasm/
+    ├── train.csv       - Training set
+    ├── validation.csv  - Validation set
+    ├── test.csv        - Test set
+    ├── vcand.txt       - Candidate vocabulary (100 words)
+    └── dataset_info.txt - This file
+
+Usage:
+  python main.py --dataset SST-2 --vocab_path SST-2/vcand.txt

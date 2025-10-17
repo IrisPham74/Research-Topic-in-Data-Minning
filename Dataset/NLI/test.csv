@@ -1,0 +1,101 @@
+sentence,label,SemEval_set
+A: A big brown and white spotted dog is lying on a cloth on the street  B: The dog is having a rest in the park,1,TEST
+A: The man is doing a wheelie on a mountain bike  B: A person on a bike is riding on one wheel only,2,TEST
+A: Not everyone is able to walk a lion  B: A lion is pacing tiredly in a pen,1,TEST
+A: Two women are dancing and singing in front of a crowd  B: Two men are dancing and singing in front of a crowd,1,TEST
+A: The man is playing the guitar and has the guitar case open for donations  B: There is no man in a purple suit standing by a purple case and playing a guitar,1,TEST
+A: A dog is jumping high into the air in the country  B: A dog is jumping into the air in the country,2,TEST
+A: Two women are happily dancing  B: A couple of policewomen are singing karaoke,1,TEST
+A: The man is silent and still  B: The man is singing and playing the guitar,0,TEST
+A: Some dogs are playing in a stream  B: Two cats are looking at something that is splashing in the water,1,TEST
+A: Someone is not reading the email  B: A man is reading the email,0,TEST
+A: Someone is stirring noodles in the water  B: Nobody is stirring noodles in the water,0,TEST
+A: A deer is jumping over a fence  B: A deer is jumping over the enclosure,2,TEST
+A: A cyclist is fearlessly performing a trick in the air  B: The cyclist is performing a trick in the air,2,TEST
+A: A man is packing away an acoustic guitar  B: The woman is playing an electric guitar,1,TEST
+A: There is no young child wearing a white coat and playing a game  B: A young child is wearing a white coat and playing a game,0,TEST
+A: The shirtless man in striped shorts and sunglasses is standing near a person in a white shirt and sunglasses  B: The muscular black man is dancing and the man behind him is wearing green beads,1,TEST
+A: The man in a cowboy hat is walking through a market and is putting a hand in his pocket  B: A walker is in a hat store for men,1,TEST
+A: The woman is wearing a red jacket and holding a glass in front of the man in a white t-shirt  B: The woman is not wearing a red jacket and is not holding a glass in front of the man in a white t-shirt,0,TEST
+"A: A little girl is playing a piano, which is very big, on stage  B: A little girl is playing the piano",2,TEST
+A: A woman is running on the beach with a dog on a leash  B: A woman is standing at the beach with a dog on a leash,1,TEST
+A: A cat is stuck on a ceiling fan that is moving  B: A cat is stuck on a moving ceiling fan,2,TEST
+A: A man is drilling a hole in a piece of wood  B: Someone is making a hole in a strip of wood with a drill,2,TEST
+A: A bald man in a band is playing guitar in the spotlight  B: A guitar is being played by a man next to a drummer,1,TEST
+A: A man is doing exercise  B: A man is exercising,2,TEST
+A: A woman is boiling shrimps  B: A woman is combing her hair,1,TEST
+A: Someone is scratching the belly of an animal  B: There is no woman stroking a lemur,1,TEST
+A: A small child in a pink sweater is climbing a concrete staircase  B: A small child is lying outdoors in a grassy area,1,TEST
+A: A person is doing a trick on a snowboard  B: A snowboarder is grinding down a long rail,1,TEST
+A: There is no man pouring some oil on the tomatoes  B: The man is pouring some oil on the tomatoes,0,TEST
+A: A woman is frying fish  B: There is no woman cooking fish,0,TEST
+A: A man is sitting on a chair and rubbing his eyes  B: A tattooed man is on a sofa and is holding a pencil,1,TEST
+A: A man is speaking  B: A person is spitting,1,TEST
+A: The helmeted girl is perching on a bike  B: The girl with a helmet is perching on a bike,2,TEST
+A: A man and a woman are sitting comfortably on the bench  B: Two large persons are sitting on a park bench and they have a bottle of soda between them,1,TEST
+A: A few men are playing cricket  B: Some people are playing cricket,2,TEST
+A: A man is playing a guitar on stage  B: A person has blonde and flyaway hair and is playing a guitar,1,TEST
+A: A man is posing to be watched by another man  B: A man doing a pose is being watched by another man,2,TEST
+A: The smiling boy in winter clothes is waving his mittened hands outside the building in the snow  B: A smiling boy in winter clothes is waving his mittened hands outside a building in the snow,2,TEST
+A: A cat is eagerly eating corn on the cob  B: A cat is eating corn on the cob,2,TEST
+A: There is no woman dancing  B: Some women are dancing,0,TEST
+A: A man is loading a rifle with bullets  B: There is no man loading a rifle with bullets,0,TEST
+A: There is no young boy playing a wind instrument  B: The man is playing the guitar,1,TEST
+A: A black dog is jumping from a dock into the water  B: A black animal is jumping from a dock into the water,2,TEST
+A: There is no girl riding a horse  B: A girl is riding a horse,0,TEST
+A: A woman is pouring a mixture into a bowl and mixing it  B: A woman is taking a mixture out of a bowl,1,TEST
+A: A child is walking down the street and a jeep is pulling up  B: A man in a car is pulling up beside a woman that is who along a road,1,TEST
+A: A golden retriever is running  B: A dog is running,2,TEST
+A: A boy is spanking a man with a toy weapon  B: A boy is whacking a man with a sword,1,TEST
+A: Two dogs are playing on a beach  B: A brown dog is running after a white dog on a rocky shore,1,TEST
+A: A man is cutting a thick rope with a sword  B: A man is cutting a cord with a sword,2,TEST
+A: A girl is applying makeup to her face  B: A lady is putting on makeup,2,TEST
+A: The man on stage is passionately singing into the microphone  B: The man on stage is singing into the microphone,2,TEST
+A: A man is dancing on the ceiling  B: A person is dancing on the ceiling,2,TEST
+A: There is no one playing the guitar  B: Someone is playing the guitar,0,TEST
+A: A kitten is playing with a blue rope toy  B: A kitten is playing with a toy made of blue rope,2,TEST
+A: A woman is chopping a red onion  B: A woman is brushing her feet,1,TEST
+A: A woman is jumping with a bicycle  B: The helmeted girl is perching on a bike,1,TEST
+A: A person is riding a motorbike in the event related to motocross  B: There is no person riding a motorbike in the event related to motocross,0,TEST
+A: A dog is swimming after a tennis ball  B: A dog is swimming after a ball,2,TEST
+A: The man in a grey t-shirt is sitting on a rock in front of the waterfall  B: Somebody is sitting at the waterfall and looking at a woman,1,TEST
+A: A man is sitting on the floor and is playing a guitar  B: The man is pacing around a room,1,TEST
+A: A group of racing dogs are nosing a muzzle  B: A group of dogs are racing and have muzzles on their noses,1,TEST
+A: Two dogs are wrestling and hugging  B: A brown dog is helping another animal in front of the man in pants,1,TEST
+A: A big brown and white spotted dog is lying on a jacket on the street  B: The dog is having a rest in the living room,1,TEST
+A: A boy is looking at a calendar  B: The boy is studying a calendar,2,TEST
+A: A man is playing a violin  B: The baby is laughing and toddling,1,TEST
+A: Two young kids are playing with a man eating corndogs  B: Two young kids are eating corndogs,1,TEST
+A: The squirrel is not running in circles  B: An animal is running in circles,1,TEST
+A: The brown dog is jumping in the air  B: The brown animal is jumping in the air,2,TEST
+A: A man is climbing up a rope  B: A man is coming down a rope,1,TEST
+A: A dog that has a brown and white coat is trotting through shallow water  B: A brown and white coat is floating across shallow water near a trotting dog,1,TEST
+A: A dog is swimming after a tennis ball  B: An animal is barking at a ball,1,TEST
+A: Three men are dancing  B: There is no woman dancing,1,TEST
+A: The game of basketball consists of a ball being dunked by a man with a jersey  B: The player is dunking the basketball into the net and a crowd is in background,1,TEST
+A: A person in a blue jacket is jumping off of a tall cement wall  B: A large jump is being performed by a man,1,TEST
+A: The dog is running through the wet sand  B: The dog is running through the dry sand,0,TEST
+A: A truck is quickly going up a hill  B: Some water is being drunk by a cat,1,TEST
+A: A man is playing a piano  B: A man is playing a guitar,1,TEST
+A: A big dog and a small white dog are playing together  B: Two dogs are resting together in the grass,1,TEST
+A: A man is pouring oil into a skillet  B: Oil is being poured into a skillet by a man,2,TEST
+A: Two dogs are walking slowly through a park  B: Two dogs are running through the park,1,TEST
+A: A kitten is playing with a blue rope toy  B: The little cat is playing with a toy,2,TEST
+A: A shirtless man is jumping over a log  B: A guy is leaping into the air in a wooded area,1,TEST
+A: A woman is carefully applying cosmetics to her eyelid  B: A woman is applying cosmetics to her eyelid,2,TEST
+A: A man is pushing a helmet towards another one on a black bicycle  B: A biker is wearing gear which is black,1,TEST
+A: A cat is swinging on a fan  B: A cat is stuck on a moving ceiling fan,1,TEST
+A: A boy is wearing a black dress and is carrying a white cross  B: A lady is wearing a black dress and is carrying a white cross,1,TEST
+A: The picture of a man is being taken near a lake  B: The man is setting up the camera and taking sunset pictures at the beach,1,TEST
+A: A group of women are wearing pink bunny ears and are pointing to the right  B: Several women are wearing pink bunny ears and are pointing to the right,2,TEST
+A: The woman is chopping garlic  B: The woman is not chopping garlic,0,TEST
+A: The man is standing in a lake near a waterfall  B: A man is performing a trick on a surfboard in the water,1,TEST
+A: There are no racers running down a track  B: Men are running a race,1,TEST
+A: Tofu isn't being sliced by a woman  B: A girl is cutting butter into two pieces,1,TEST
+A: A man dressed in black and white is holding up the tennis racket and is waiting for the ball  B: A man dressed in black and white is dropping the tennis racket and is waiting for the ball,0,TEST
+A: A man is slicing a fish  B: There is no man cutting a fish,0,TEST
+A: A man is carefully climbing a rope  B: A panda is climbing,1,TEST
+A: A large wet yellow dog is retrieving a toy  B: A dog is biting a black frisbee,1,TEST
+A: A man and a woman are walking down a city street  B: A man and a woman are idling in a city street,1,TEST
+A: The woman is not putting makeup on the man  B: The woman is putting makeup on the man,0,TEST
+A: A woman is peeling a potato  B: A woman is not peeling a potato,0,TEST
